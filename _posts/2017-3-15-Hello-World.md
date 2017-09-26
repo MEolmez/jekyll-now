@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Blogging Like a Hacker
+title: Macro Rail For Photography
 ---
 
 # H1
