@@ -12,6 +12,7 @@ Project uses the part that moves reading laser from an old cd-rom drive , arduin
 ![alt text](https://github.com/MEolmez/Macro-Rail-v2/blob/master/Result1.jpg "Logo Title Text 1")
 ![alt text](meolmez.github.io/assets/Setup.jpg "Logo Title Text 1")
 ![alt text](https://i.imgur.com/lv97ckG.jpg "Logo Title Text 1")
+![useful image]({{https://meolmez.github.io}}/assets/Setup.jpg)
 <img src="https://github.com/MEolmez/Macro-Rail-v2/blob/master/Result1.jpg" width="500"/>
 <img src="https://github.com/MEolmez/Macro-Rail-v2/blob/master/Setup.jpg" width="300"/>
 <img src="https://i.imgur.com/lv97ckG.jpg" width="300"/>
