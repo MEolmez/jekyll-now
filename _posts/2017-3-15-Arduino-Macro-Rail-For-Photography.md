@@ -9,9 +9,9 @@ When taking photos with reversed lenses for macro purposes , focused area is so 
 
 Project uses the part that moves reading laser from an old cd-rom drive , arduino uno , easydriver for motor control , an IR led to trigger the camera and a lcd keypad shield. You can choose how many photos to take , step mode(full , half , 1/4 , 1/8) and exposure time.
 
-Code is here https://github.com/MEolmez/Macro-Rail-v2
+Code is <a href="https://github.com/MEolmez/Macro-Rail-v2">HERE</a>
 
-other
+
 ![usefulimage]({{https://meolmez.github.io}}/assets/Setup.jpg)
 ![usefulimage2]({{https://meolmez.github.io}}/assets/Result1.jpg)
 
