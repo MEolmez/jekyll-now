@@ -13,7 +13,7 @@ categories: arduino
 <br>
 <br>
 <br>
-1-) Arduino Voltmeter , Ammeter , Ohmmeter With INA219
+2-) Arduino Voltmeter , Ammeter , Ohmmeter With INA219
 
 ![ohm]({{https://meolmez.github.io}}/assets/20170914_002815.jpg)
 
@@ -21,7 +21,7 @@ categories: arduino
 <br>
 <br>
 
-2-) Cordless Screwdriver Battery Nicad to Li-ion Conversion
+3-) Cordless Screwdriver Battery Nicad to Li-ion Conversion
 
 ![5S]({{https://meolmez.github.io}}/assets/drillBattery.jpg)
 <br>
@@ -30,7 +30,7 @@ categories: arduino
 
 
 
-3-) Repurposing Old RC Car with ESP8266 For Control Over Wifi
+4-) Repurposing Old RC Car with ESP8266 For Control Over Wifi
 
 ![RC]({{https://meolmez.github.io}}/assets/refittedToyCar.jpg)
 <br>
@@ -39,7 +39,7 @@ categories: arduino
 
 
 
-4-) Knex Car With Servo Steering , Gear Reduction And Wifi Control
+5-) Knex Car With Servo Steering , Gear Reduction And Wifi Control
 
 ![Knex]({{https://meolmez.github.io}}/assets/KnexCar.jpg)
 <br>
@@ -48,5 +48,5 @@ categories: arduino
 
 
 
-5-) 3S 18650 12.6V Battery Pack From Salvaged Cells
+6-) 3S 18650 12.6V Battery Pack From Salvaged Cells
 ![3S]({{https://meolmez.github.io}}/assets/3sLionPack.jpg)
