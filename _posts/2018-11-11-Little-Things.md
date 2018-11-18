@@ -6,6 +6,13 @@ categories: arduino
 ---
 
 
+1-) Solar Powered Weather Station
+
+![weatherstation]({{https://meolmez.github.io}}/assets/WeatherStation.jpg)
+![weatherstation2]({{https://meolmez.github.io}}/assets/WeatherStation2.jpg)
+<br>
+<br>
+<br>
 1-) Arduino Voltmeter , Ammeter , Ohmmeter With INA219
 
 ![ohm]({{https://meolmez.github.io}}/assets/20170914_002815.jpg)
