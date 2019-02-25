@@ -11,7 +11,6 @@ Table Of Contents
 <details>
     <summary>Click to expand</summary>
     
-    ![usefulimage]({{https://meolmez.github.io}}/assets/tempProbe.jpg)
  Input voltage: 4-38V
 Output voltage: 1.25-36V continuously adjustable
 Output current: adjustable, maximum 5A
