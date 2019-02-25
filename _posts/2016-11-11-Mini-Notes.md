@@ -5,5 +5,11 @@ title:  Mini Notes
 
 Table Of Contents
 
-1-)<details>dwaddad  <summary>Click to expand</summary>  </details>
+1-)
+
+<details>
+    <summary>Click to expand</summary>
+  dwaddad 
+
+</details>
 
