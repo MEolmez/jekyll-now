@@ -6,10 +6,11 @@ title:  Mini Notes
 Table Of Contents
 
 1-) XL4015 Buck converter
+![xl4015e1]({{https://meolmez.github.io}}/assets/xl4015e1.jpg)
 
 <details>
     <summary>Click to expand</summary>
-    ![xl4015e1]({{https://meolmez.github.io}}/assets/xl4015e1.jpg)
+    
     ![usefulimage]({{https://meolmez.github.io}}/assets/tempProbe.jpg)
  Input voltage: 4-38V
 Output voltage: 1.25-36V continuously adjustable
