@@ -3,7 +3,7 @@ layout: post
 title:  Mini Notes
 ---
 
-#Table Of Contents
+# Table Of Contents
 
 1-) XL4015 Buck converter
 
