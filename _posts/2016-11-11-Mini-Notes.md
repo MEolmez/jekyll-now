@@ -3,9 +3,9 @@ layout: post
 title:  Mini Notes
 ---
 
-Table Of Contents
+#Table Of Contents
 
-#1-) XL4015 Buck converter
+1-) XL4015 Buck converter
 
 What i like about this module is its current limiting feature , so even if you short its outputs it does not gets damaged. And of course the supposed 5A output capability is too generous of an estimate.
 
